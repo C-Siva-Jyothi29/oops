@@ -1,0 +1,5 @@
+class mobile:
+    def __init__(self,model,camera):
+        self.model = model
+        self.camera = camera
+c_1 = mobile("real me","front")        
