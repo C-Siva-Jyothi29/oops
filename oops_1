@@ -1,2 +1,4 @@
 It consists of Instance methods,Class methods,Static methods.
 Class will bundle all attributes and methods known as encapsulation.
+@classmethod
+@staticmethod
